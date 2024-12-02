@@ -16,7 +16,8 @@ timezone:
 
 title: Ryan's Blog # the main title
 
-tagline: A Javaer who is learning Rust
+# A Javaer who is learning Rust
+tagline: Javaer to Rustacean
 
 description: >- # Java Rust Vue
 
@@ -33,7 +34,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
+  name: Ryan
   email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
