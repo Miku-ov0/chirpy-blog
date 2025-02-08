@@ -117,10 +117,3 @@ Elasticsearch 的 scaled_float 类型是一种数值数据类型，专门用于�
 + 优点：灵活控制数据处理逻辑。
 + 缺点：可能影响查询性能，增加系统复杂性。
 
-
-
-
-
-
-
-> 原文: <https://www.yuque.com/hollis666/xkm7k3/ys1c3qvzygc32lv2>

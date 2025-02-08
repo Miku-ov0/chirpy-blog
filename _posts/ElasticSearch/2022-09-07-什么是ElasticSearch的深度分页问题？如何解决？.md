@@ -202,6 +202,3 @@ search_after 可以有效解决深度分页问题，原因如下：
 + 对于需要处理大量数据但不需要随机页面访问的场景，尤其是深度分页，search_after提供了更好的性能和更高的效率。
 + 当需要处理非常大的数据集并且对数据一致性有要求时（如数据导出或备份），Scroll API是一个更好的选择。
 
-
-
-> 原文: <https://www.yuque.com/hollis666/xkm7k3/bydxffo5r2atzavl>

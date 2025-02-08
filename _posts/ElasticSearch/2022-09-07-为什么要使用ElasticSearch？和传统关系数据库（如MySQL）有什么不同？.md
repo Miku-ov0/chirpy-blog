@@ -68,6 +68,3 @@ Elasticsearch具有以下几个优势：
 4. **实时分析**：Elasticsearch支持实时分析，可以对数据进行实时查询，这对于快速检索数据非常有用。
 5. 可靠性：Elasticsearch具有可靠性和高可用性，支持数据备份和恢复。
 
-
-
-> 原文: <https://www.yuque.com/hollis666/xkm7k3/bvxs6urdwieo3uwi>
