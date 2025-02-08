@@ -1,6 +1,6 @@
 ---
 title: 如何优化 ElasticSearch 搜索性能？
-date: 2022-05-01
+date: 2022-06-26
 categories: [云计算]
 tags: [分布式, 云计算, ElasticSearch]
 ---
@@ -25,7 +25,7 @@ tags: [分布式, 云计算, ElasticSearch]
 
 <font style="color:rgb(15, 15, 15);"></font>
 
-但是这个说起来比较玄学，毕竟没有一种“一刀切”的方法来确定最优的分片和副本数量，因为这取决于多种因素，包括数据的大小、查询的复杂性、硬件资源和预期的负载等。
+但是这个说起来比较玄学，毕竟没有一种"一刀切"的方法来确定最优的分片和副本数量，因为这取决于多种因素，包括数据的大小、查询的复杂性、硬件资源和预期的负载等。
 
 
 
@@ -83,4 +83,4 @@ _<font style="color:rgb(52, 55, 65);">在ES每个节点上可以存储的分片�
 ### 
 
 
-> 原文: <https://www.yuque.com/hollis666/xkm7k3/otwmst9mkkktrbyk>
+> 

@@ -1,3 +1,10 @@
+---
+title: synchronized升级过程中有几次自旋？
+date: 2022-07-06
+categories: [Java并发]
+tags: [synchronized, 自旋]
+---
+
 # synchronized升级过程中有几次自旋？
 
 # 典型回答
@@ -103,4 +110,4 @@ if (mark == (markOop) Atomic::cmpxchg_ptr(lock, obj->mark_addr(), mark)) {
 
 
 
-> 原文: <https://www.yuque.com/hollis666/xkm7k3/dc6vfx4nfvptib2y>
+> 
