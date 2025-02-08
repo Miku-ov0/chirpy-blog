@@ -1,3 +1,10 @@
+---
+title: LLM 相关知识
+date: 2023-09-21
+categories: [AI]
+tags: [LLM, RAG]     # TAG names should always be lowercase
+---
+
 # AI赋能日常生活，有效利用白菜价的Deepseek API做其他事情
 
 [DeepSeek | 深度求索](https://www.deepseek.com/) 官网右上角是有API开放平台的入口，在里面可以获取API KEY。
