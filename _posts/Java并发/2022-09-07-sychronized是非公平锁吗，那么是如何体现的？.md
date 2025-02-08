@@ -1,4 +1,4 @@
-# ✅sychronized是非公平锁吗，那么是如何体现的？
+# sychronized是非公平锁吗，那么是如何体现的？
 
 # 典型回答
 
@@ -11,7 +11,7 @@
 
 
 
-[✅公平锁和非公平锁的区别？](https://www.yuque.com/hollis666/xkm7k3/bnt978)
+[公平锁和非公平锁的区别？](https://www.yuque.com/hollis666/xkm7k3/bnt978)
 
 
 

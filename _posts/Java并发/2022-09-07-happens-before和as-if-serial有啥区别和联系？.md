@@ -1,4 +1,4 @@
-# ✅happens-before和as-if-serial有啥区别和联系？
+# happens-before和as-if-serial有啥区别和联系？
 
 # 典型回答
 
@@ -8,7 +8,7 @@ happens-before 原则和 as-if-serial 语义是JMM中的重要概念，它们都
 ### Happens-before 原则
 
 
-[✅什么是happens-before原则？](https://www.yuque.com/hollis666/xkm7k3/uctffq5e5bnaie18)
+[什么是happens-before原则？](https://www.yuque.com/hollis666/xkm7k3/uctffq5e5bnaie18)
 
 
 
@@ -23,7 +23,7 @@ happens-before 原则是 Java 内存模型（JMM）的一部分，用于确定�
 ### As-if-serial 语义
 
 
-[✅synchronized是如何保证原子性、可见性、有序性的？](https://www.yuque.com/hollis666/xkm7k3/qw9x0lgisg4q18t6)
+[synchronized是如何保证原子性、可见性、有序性的？](https://www.yuque.com/hollis666/xkm7k3/qw9x0lgisg4q18t6)
 
 
 

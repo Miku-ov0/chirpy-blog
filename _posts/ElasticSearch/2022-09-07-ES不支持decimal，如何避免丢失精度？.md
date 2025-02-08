@@ -9,7 +9,7 @@ tags: [分布式, 云计算, ElasticSearch]
 # 典型回答
 
 
-[✅ES支持哪些数据类型，和MySQL之间的映射关系是怎么样的？](https://www.yuque.com/hollis666/xkm7k3/neoehwlpx3yeeg7m)
+[ES支持哪些数据类型，和MySQL之间的映射关系是怎么样的？](https://www.yuque.com/hollis666/xkm7k3/neoehwlpx3yeeg7m)
 
 
 

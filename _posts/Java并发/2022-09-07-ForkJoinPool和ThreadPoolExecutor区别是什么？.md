@@ -1,4 +1,4 @@
-# ✅ForkJoinPool和ThreadPoolExecutor区别是什么？
+# ForkJoinPool和ThreadPoolExecutor区别是什么？
 
 # 典型回答
 

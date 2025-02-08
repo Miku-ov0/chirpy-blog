@@ -1,4 +1,4 @@
-# ✅CountDownLatch、CyclicBarrier、Semaphore区别？
+# CountDownLatch、CyclicBarrier、Semaphore区别？
 
 # 典型回答
 
@@ -37,7 +37,7 @@ Semaphore适用于一个线程需要等待获取许可证才能访问共享
 
 
 
-[✅有三个线程T1,T2,T3如何保证顺序执行？](https://www.yuque.com/hollis666/xkm7k3/xgzze4hglvk4fiu5)
+[有三个线程T1,T2,T3如何保证顺序执行？](https://www.yuque.com/hollis666/xkm7k3/xgzze4hglvk4fiu5)
 
 
 

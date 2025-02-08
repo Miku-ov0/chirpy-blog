@@ -1,4 +1,4 @@
-# ✅run/start、wait/sleep、notify/notifyAll区别?
+# run/start、wait/sleep、notify/notifyAll区别?
 
 ## run方法和start方法区别
 

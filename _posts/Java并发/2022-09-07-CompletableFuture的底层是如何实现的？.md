@@ -1,4 +1,4 @@
-# ✅CompletableFuture的底层是如何实现的？
+# CompletableFuture的底层是如何实现的？
 
 # 典型回答
 
