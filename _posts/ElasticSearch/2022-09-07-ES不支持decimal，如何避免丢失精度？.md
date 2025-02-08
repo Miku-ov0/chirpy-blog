@@ -1,6 +1,6 @@
 ---
 title: ES 不支持 decimal，如何避免丢失精度？
-date: 2023-06-21
+date: 2022-04-22
 categories: [云计算]
 tags: [分布式, 云计算, ElasticSearch]
 ---
